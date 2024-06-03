@@ -21,3 +21,48 @@ node_modules/
 *.log
 *.sql
 *.sqlite
+
+# Jekyll related files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+/vendor/bundle/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# System generated files
+.DS_Store
+Thumbs.db
+
+# Node modules (if using Node.js)
+node_modules/
+
+# Temporary files and folders
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.swp
+
+# Mac system files
+._*
+.Spotlight-V100
+.Trashes
+
+# Generated files
+*.gem
+*.lock
+*.swp
+*.class
+*.psd
+*.sublime-project
+*.sublime-workspace
+
+# Specific IDE or editor settings
+.idea/
+.vscode/
